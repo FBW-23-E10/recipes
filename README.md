@@ -32,3 +32,5 @@
 7. Serve the pancakes warm with your favorite toppings, such as maple syrup, fresh berries, or whipped cream.
 
 Enjoy your delicious homemade pancakes!
+
+and some new changes here
